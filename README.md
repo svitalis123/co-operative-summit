@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Co-operative University Summit 2022
 
-> Description the project.
-
+Co-operative University held a summit to Invite creativity, Networking, and inspiration to esteemed members along the 47 Kenyan Counties.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- CSS 
+- JS
+- HTML
+- SASS
 
 ## Live Demo (if available)
 
@@ -18,33 +18,36 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+  - GitHub repository
+  - Git
+  - code editor
 
 ### Setup
+  - Create HTML CSS AND JS FILES 
 
 ### Install
+  - Install Sass ![w3school](https://techobservatory.com/how-to-compile-sass-scss-to-css-in-visual-studio-code/)
+  - ![using extension](https://techobservatory.com/how-to-compile-sass-scss-to-css-in-visual-studio-code/)
 
 ### Usage
 
 ### Run tests
 
 ### Deployment
-
+  - Deploy in GitHub for development.
+  - Deploy in vercel, firebase ... for production. 
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/svitalis123)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/vitalismutwiri)
 
 👤 **Author2**
 
@@ -64,9 +67,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- ![Cindy Shin design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
 
 ## 📝 License
 
