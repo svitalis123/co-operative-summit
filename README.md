@@ -66,9 +66,8 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- ![Cindy Shin design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
+**"This project was created with the help of the following contributor design:**
+- [Cindy Shin design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 ## 📝 License
 
