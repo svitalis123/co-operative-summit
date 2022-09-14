@@ -13,7 +13,7 @@ Co-operative University held a summit to Invite creativity, Networking, and insp
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://svitalis123.github.io/co-operative-summit/app)
 
 
 ## Getting Started
