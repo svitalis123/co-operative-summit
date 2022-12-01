@@ -41,19 +41,14 @@ To get a local copy up and running follow these simple example steps.
   - Deploy in vercel, firebase ... for production. 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/svitalis123)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/vitalismutwiri)
+- GitHub: [@svitalis123](https://github.com/svitalis123)
+- Twitter: [@WilsonVitalis](https://twitter.com/wilsonvitalis)
+- LinkedIn: [vitalismutwiri](https://linkedin.com/in/vitalismutwiri)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
