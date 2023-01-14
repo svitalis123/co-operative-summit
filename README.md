@@ -1,71 +1,132 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Co-operative University Summit 2022
+<a name="readme-top"></a>
 
-Co-operative University held a summit to Invite creativity, Networking, and inspiration to esteemed members along the 47 Kenyan Counties.
+<!-- TABLE OF CONTENTS -->
 
-## Built With
+# 📗 Table of Contents
 
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Co-operative University Summit 2022 <a name="about-project"></a>
+
+**Co-operative University Summit 2022** Co-operative University held a summit to Invite creativity, Networking, and inspiration to esteemed members along the 47 Kenyan Counties.
+## 🛠 Built With <a name="built-with"></a>
 - CSS 
 - JS
 - HTML
 - SASS
+### Tech Stack <a name="tech-stack"></a>
 
-## Live Demo (if available)
+> JS, CSS, SASS
+<details>
+  <summary>Website</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/">JS</a></li>
+  </ul>
+</details>
 
-[Live Demo Link](https://svitalis123.github.io/co-operative-summit/app)
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
 
-## Getting Started
+With this app you can:
+ - Provided Responsive design for attendees to view description of the event
+ - Previous summits information 
+ - Participant and speakers information
+ 
+ ### Live Demo <a name="Live Demo"></a>
+ [Live Demo](https://svitalis123.github.io/co-operative-summit/app)
 
-To get a local copy up and running follow these simple example steps.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+- To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-  - GitHub repository
+
+ - GitHub repository
   - Git
   - code editor
 
 ### Setup
-  - Create HTML CSS AND JS FILES 
 
-### Install
-  - Install Sass ![w3school](https://techobservatory.com/how-to-compile-sass-scss-to-css-in-visual-studio-code/)
-  - ![using extension](https://techobservatory.com/how-to-compile-sass-scss-to-css-in-visual-studio-code/)
+Clone this repository to your desired folder:
 
-### Usage
+```sh
+  cd my-folder
+  git clone https://github.com/svitalis123/co-operative-summit/todolist.git
+```
 
-### Run tests
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
-  - Deploy in GitHub for development.
-  - Deploy in vercel, firebase ... for production. 
+<!-- AUTHOR -->
 
+## 👥 Authors <a name="authors"></a>
 
-## Author
-
-👤 **Author**
+👤 **Vitalis Mutwiri**
 
 - GitHub: [@svitalis123](https://github.com/svitalis123)
-- Twitter: [@WilsonVitalis](https://twitter.com/wilsonvitalis)
-- LinkedIn: [vitalismutwiri](https://linkedin.com/in/vitalismutwiri)
+- Twitter: [@WilsonVitalis](https://twitter.com/WilsonVitalis)
+- LinkedIn: [vitalismutwiri](https://www.linkedin.com/in/vitalismutwiri/)
 
+<!-- FUTURE FEATURES -->
 
-## 🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Newsletter inclusion]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/svitalis123/OOP-school-library/issues).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project leave a star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 **"This project was created with the help of the following contributor design:**
 - [Cindy Shin design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./LICENSE) licensed.
+## 📝 License <a name="license"></a>
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
